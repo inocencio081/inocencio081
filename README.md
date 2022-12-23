@@ -10,7 +10,6 @@ I'm Inocêncio Carlos a Web Developer in Angola Country.
 
 - 🔭 I’m currently working at @Jupyter System and Soluctions
 - :computer: Most used line of code `git pull`
-- 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: inocencio.carlos90@gmail.com.
 - 😄 Pronouns: inoce90, inoce.
 - ⚡ Fun fact:Football player, xadrez player, I play games and I watch a lot of anime (kkk).
